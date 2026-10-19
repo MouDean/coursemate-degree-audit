@@ -2,7 +2,7 @@
 
 A thesis research prototype for exploring student study plans, academic progress, and advisor registration workflows.
 
-Created by [Mousa Alhatti / codebea](https://github.com/codebea) during thesis work. This public edition preserves the application source while replacing private records and embedded access details with fictional demo data. It is an independent portfolio/research project, without university endorsement.
+Created by [Mousa Alhatti / codebea](https://github.com/codebea) at **Abu Dhabi University (ADU)** during thesis work. This public edition preserves the application source while replacing private records and embedded access details with fictional demo data. It is an independent portfolio/research project, without university endorsement.
 
 ## Features
 
