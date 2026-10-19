@@ -2,7 +2,7 @@
 
 A thesis research prototype for exploring student study plans, academic progress, and advisor registration workflows.
 
-Created by [Mousa Alhatti / codebea](https://github.com/codebea) at **Abu Dhabi University (ADU)** during thesis work. This public edition preserves the application source while replacing private records and embedded access details with fictional demo data. It is an independent portfolio/research project, without university endorsement.
+Created by [Mousa Alhatti (Mou) / @MouDean](https://github.com/MouDean) at **Abu Dhabi University (ADU)** during thesis work. This public edition preserves the application source while replacing private records and embedded access details with fictional demo data. It is an independent portfolio/research project, without university endorsement.
 
 ## Features
 
@@ -17,7 +17,7 @@ Created by [Mousa Alhatti / codebea](https://github.com/codebea) at **Abu Dhabi 
 Use Node.js 22 and pnpm 10.4.1 (the package manager recorded by the project).
 
 ```sh
-git clone https://github.com/codebea/coursemate-degree-audit.git
+git clone https://github.com/MouDean/coursemate-degree-audit.git
 cd coursemate-degree-audit
 pnpm install --frozen-lockfile --ignore-scripts
 pnpm dev
@@ -67,6 +67,12 @@ Moving to institutional use requires a separately designed backend, server-side 
 ## Validation
 
 The repository includes targeted Node tests for core utilities and fictional seed records. GitHub Actions runs those checks and a production build. These are smoke/regression checks, not a complete end-to-end or security certification. See [VALIDATION.md](VALIDATION.md) for the checks actually completed.
+
+## Author
+
+**[Mousa Alhatti (Mou) / @MouDean](https://github.com/MouDean)** — higher-education and educational-technology practitioner at Abu Dhabi University.
+
+[LinkedIn](https://www.linkedin.com/in/mousa-alhatti) · [ORCID](https://orcid.org/0009-0006-6509-5786)
 
 ## Contribute
 
